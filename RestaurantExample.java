@@ -1,5 +1,5 @@
 // ============================================
-// Lecture 6 - Example 2: Constructors and Static vs Instance Methods
+// Lecture 7 - Example 2: Constructors and Static vs Instance Methods
 // ============================================
 // Topic: Understanding constructors, instance methods, and static methods
 

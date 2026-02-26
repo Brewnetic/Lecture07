@@ -1,5 +1,5 @@
 // ============================================
-// Lecture 6 - Example 1: Creating a Simple Class
+// Lecture 7 - Example 1: Creating a Simple Class
 // ============================================
 // Topic: Creating a Movie class with properties and instance methods
 

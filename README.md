@@ -1,6 +1,6 @@
 # **Class Examples**
 
-## **Lecture 6: Intro to Object-Oriented Programming**
+## **Lecture 7: Intro to Object-Oriented Programming**
 
 ### **📝 Ex 1: Creating a Simple Class**
 
